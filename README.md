@@ -38,7 +38,14 @@ Levante el servidor con
 
 > /api/ofertas/list
 
-La segunda es para obtener el listado de ofertas con los usuarios asociados a cada una de ellas, para lo cual, es necesario enviar el token obtenido con el primer endpoint
+La segunda es para obtener el listado de ofertas con los usuarios asociados a cada una de ellas, para lo cual, es necesario enviar el token obtenido con el primer endpointç
+
+## Datos para pruebas
+
+**email:** test@testing.com
+
+**password:** password
+
 
 ## Tiempo de desarrollo
 
