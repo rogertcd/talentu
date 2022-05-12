@@ -9,13 +9,13 @@ Test para Talentu
 
 
 
-## Demo
-[Click for view the Frontend](https://talentu-laravel-test.herokuapp.com/)
+## Despliegue en HEROKU
+https://talentu-laravel-test.herokuapp.com/
 
-## Requirimientos
+## Requerimientos
 
-- Apache 2
-- PHP 7.4  
+- Apache >2
+- PHP >7.4  
 - Laravel 8
 - MongoDB
 
@@ -31,14 +31,15 @@ Levante el servidor con
 
 ## Endpoints
 
-- [ ] API
-  La primera es para autenticaci&oacute;n y obtenci&oacute;n de un token de seguridad
+- [ ] APIs
 
 > /api/auth/login
 
 > /api/ofertas/list
 
-La segunda es para obtener el listado de ofertas con los usuarios asociados a cada una de ellas, para lo cual, es necesario enviar el token obtenido con el primer endpointç
+La primera es para autenticaci&oacute;n y obtenci&oacute;n de un token de seguridad
+
+La segunda es para obtener el listado de ofertas con los usuarios asociados a cada una de ellas, para lo cual, es necesario enviar el token obtenido con el primer endpoint.
 
 ## Datos para pruebas
 
